@@ -2,7 +2,7 @@
 
 To run the project follow the below steps and run all the mentioned commands in the terminal.
 
-- Copy .env.example as .env
+- Copy .env.example as .env\
 ```cp .env.example .env```
 
 - Generate App key
